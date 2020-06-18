@@ -18,8 +18,8 @@ def get_vk_page(id_of_page):
         'ip_h': 'ab4dfb826cd66a97ca',
         'lg_h': '4e691fa18b08cf03ac',
         'ul': '',
-        'email': '380713522494',
-        'pass': 'Nick0713671228',
+        'email': 'ненененннен',
+        'pass': 'по всему лицу',
     }
 
     headers = {
